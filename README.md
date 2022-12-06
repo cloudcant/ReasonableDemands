@@ -3,13 +3,21 @@
 <tr>
 <td>
   
- ![image](https://user-images.githubusercontent.com/66269103/205951512-b1b54447-8782-4494-9ddd-4b3698d952e9.png)
+![image](https://user-images.githubusercontent.com/66269103/205955718-849fdff5-5f0d-4a76-83bb-78c600fc5375.png)
   
 <details>
 <summary>Click Here</summary>
 
 ### Features/Todo :
-
+- [x] CNC ui  
+- [x] Ddos Attacks 
+- [x] Remote code execution (not targeted)
+- [X] Main cnc login system including User types and Custom admin Privs
+- [ ] Api (working but still WIP, needs auth)
+- [ ] Better Malware 
+- [ ] Web panel (WIP, relies on api)
+- [ ] Sign-ups 
+- [ ]
 
 # Getting Started / Usage
 Still WIP...
