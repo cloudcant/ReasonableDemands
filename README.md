@@ -11,8 +11,8 @@
 ### Features/Todo :
 - [x] Main ui (telnet)
 - [x] Ddos Attacks 
-- [x] Remote code execution (not targeted)
-- [X] Main cnc login system including User types and Custom admin Privs
+- [x] Remote code execution (not yet targeted)
+- [X] Main cnc login system including User types and Custom admin commands
 - [ ] Api (working but still WIP, needs auth)
 - [ ] Better Malware 
 - [ ] Web panel (WIP, relies on api)
