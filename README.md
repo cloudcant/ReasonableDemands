@@ -17,7 +17,7 @@
 - [ ] Better Malware 
 - [ ] Web panel (WIP, relies on api)
 - [ ] Sign-ups 
-- [ ]
+- [ ] Beautify code and convert all big functions and function groups to imports
 
 # Getting Started / Usage
 Still WIP...
