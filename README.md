@@ -16,7 +16,7 @@
 - [x] Api
 - [ ] Better Malware 
 - [ ] Web panel (WIP, relies on api)
-- [ ] Sign-ups (backend done just needing a frountend
+- [ ] Sign-ups (backend done just needing a frountend)
 - [ ] Beautify code and convert all big functions and function groups to imports
 
 # Getting Started / Usage
