@@ -13,7 +13,7 @@
 - [x] Ddos Attacks 
 - [x] Remote code execution (not yet targeted)
 - [X] Main cnc login system including User types and Custom admin commands
-- [ ] Api (working but still WIP, needs auth 2/3 done)
+- [x] Api
 - [ ] Better Malware 
 - [ ] Web panel (WIP, relies on api)
 - [ ] Sign-ups 
