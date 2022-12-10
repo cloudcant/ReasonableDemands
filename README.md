@@ -22,8 +22,10 @@
 # Getting Started / Usage
 Still WIP...
 
-# Screenshots
-I have yet to add some...
+## Screenshots
+# Cli connection (telnet)
+![image](https://user-images.githubusercontent.com/66269103/206879801-a730b95a-c8f2-4a5d-b721-d614ace9e92b.png)
+
   <br>
 
 </details>
