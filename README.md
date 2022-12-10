@@ -9,6 +9,12 @@
 <summary>Click Here</summary>
 
 ### Features/Todo :
+<table>
+<tr>
+<td>
+ 
+<details>
+
 - [x] Main ui (telnet)
 - [x] Ddos Attacks 
 - [x] Remote code execution (not yet targeted)
@@ -18,21 +24,45 @@
 - [ ] Web panel (WIP, relies on api)
 - [ ] Sign-ups (backend done just needing a frountend)
 - [ ] Beautify code and convert all big functions and function groups to imports
+   
+  <br>
+</details>
+</td>
+</tr>
+</table>
 
 # Getting Started / Usage
 Still WIP...
 
-## Screenshots
-# Cli connection (telnet)
+# Screenshots
+<table>
+<tr>
+<td>
+ 
+<details>
+<summary>Telnet connection</summary>
+
+### Login -
+  
+![image](https://user-images.githubusercontent.com/66269103/206879830-d76a185a-27d9-4783-8635-673cfb646757.png)
+  
+### After Login -
+  
 ![image](https://user-images.githubusercontent.com/66269103/206879801-a730b95a-c8f2-4a5d-b721-d614ace9e92b.png)
+  
+### Main User Commands/features
 
+![image](https://user-images.githubusercontent.com/66269103/206879963-f47bc8a3-488b-4ce3-beae-3f320f9677b8.png)
+
+  
   <br>
-
 </details>
-
 </td>
 </tr>
 </table>
+
+
+
 
 # Disclaimer
 
