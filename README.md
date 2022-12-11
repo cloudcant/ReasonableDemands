@@ -128,7 +128,26 @@
 </tr>
 </table>
 
+  
+<table>
+<tr>
+<td>
+ 
+<details>
+<summary>Api</summary>
+  
+## Basic Functions
+  
+  ![image](https://user-images.githubusercontent.com/66269103/206880746-cf3916ec-788a-48d0-9bef-eba04a77b55f.png)
+  
+## Auth (not yet done)
+ 
 
+  <br>
+</details>
+</td>
+</tr>
+</table>
 
 
 # Disclaimer
