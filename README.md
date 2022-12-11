@@ -8,7 +8,7 @@
 <details>
 <summary>Click Here</summary>
 
-### Features/Todo :
+# Features/Todo :
 <table>
 <tr>
 <td>
@@ -83,6 +83,29 @@
  
 <details>
 <summary>Web panel (wip)</summary>
+
+  <br>
+</details>
+</td>
+</tr>
+</table>
+  
+<table>
+<tr>
+<td>
+ 
+<details>
+<summary>Logs</summary>
+  
+## Graphical Logs
+  
+  ### Size Detection
+  
+  ![image](https://user-images.githubusercontent.com/66269103/206880233-32e74d6d-c0cd-4c2e-a653-9c428b9480a5.png)
+  
+  ### Main View, wip to add api logs
+  
+  ![image](https://user-images.githubusercontent.com/66269103/206880285-d3eb734f-d172-42ad-86a2-72db42095d69.png)
 
   <br>
 </details>
