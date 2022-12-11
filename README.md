@@ -32,7 +32,19 @@
 </table>
 
 # Getting Started / Usage
-Still WIP...
+<table>
+<tr>
+<td>
+ 
+<details>
+<summary>Installation (wip)</summary>
+
+  <br>
+</details>
+</td>
+</tr>
+</table>
+  
 
 # Screenshots
 <table>
@@ -42,19 +54,36 @@ Still WIP...
 <details>
 <summary>Telnet connection</summary>
 
-### Login -
+## Login -
   
 ![image](https://user-images.githubusercontent.com/66269103/206879830-d76a185a-27d9-4783-8635-673cfb646757.png)
   
-### After Login -
+## After Login -
   
 ![image](https://user-images.githubusercontent.com/66269103/206879801-a730b95a-c8f2-4a5d-b721-d614ace9e92b.png)
   
-### Main User Commands/features
+## Main User Commands/features
 
 ![image](https://user-images.githubusercontent.com/66269103/206879963-f47bc8a3-488b-4ce3-beae-3f320f9677b8.png)
+  
+## Main Admin Commands/features
+
+  ![image](https://user-images.githubusercontent.com/66269103/206880105-6041beb4-8d98-4411-a224-586a41515b89.png)
 
   
+  <br>
+</details>
+</td>
+</tr>
+</table>
+  
+<table>
+<tr>
+<td>
+ 
+<details>
+<summary>Web panel (wip)</summary>
+
   <br>
 </details>
 </td>
