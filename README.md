@@ -84,6 +84,8 @@
 <details>
 <summary>Web panel (wip)</summary>
 
+  ![Untitled](https://user-images.githubusercontent.com/66269103/206882877-f7054cdb-fd17-4ed4-842a-35654213b663.png)
+
   <br>
 </details>
 </td>
