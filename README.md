@@ -107,6 +107,21 @@
   
   ![image](https://user-images.githubusercontent.com/66269103/206880285-d3eb734f-d172-42ad-86a2-72db42095d69.png)
 
+## Main Server Logs
+  
+  ### Startup (wip)
+  
+  ![image](https://user-images.githubusercontent.com/66269103/206880453-22091bd5-a911-4ab2-8f90-f144ff9569fc.png)
+
+  ### Connections
+  
+  ![image](https://user-images.githubusercontent.com/66269103/206880487-57ea207c-70a6-4ca4-99a9-cf21a94f765f.png)
+
+  ### Command logging
+  
+  ![image](https://user-images.githubusercontent.com/66269103/206880502-3814f96b-4ddd-463f-9f66-0a1a3fd4588b.png)
+  
+  ## Too lazy atm to add more Server log screenshots
   <br>
 </details>
 </td>
