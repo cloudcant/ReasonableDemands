@@ -138,7 +138,7 @@
 <details>
 <summary>Api</summary>
   
-## Basic Functions
+## Basic Functions (finna remake this frfr its so messy)
   
   ![image](https://user-images.githubusercontent.com/66269103/206880746-cf3916ec-788a-48d0-9bef-eba04a77b55f.png)
   
