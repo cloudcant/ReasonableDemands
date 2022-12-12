@@ -151,12 +151,17 @@
 </td>
 </tr>
 </table>
+  
+</td>
+</tr>
+</table>
+
 
 
 # Disclaimer
 
-This Project in in Development for EDUCATIONAL PURPOSES, Using this to learn should be its only usuage :p
-I am not responcible for any damage this project may cause or the trouble it may bring.
+This Project is in Development for EDUCATIONAL PURPOSES,Using this to learn should be its only usuage :p
+I am not responsible for any damage this project or trouble this project may cause on your end.
 
 ---
 
