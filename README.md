@@ -20,9 +20,10 @@
 - [x] Remote code execution (not yet targeted)
 - [X] Main cnc login system including User types and Custom admin commands
 - [x] Api
+- [x] Api auth
 - [ ] Better Malware 
-- [ ] Web panel (WIP, relies on api)
-- [ ] Sign-ups (backend done just needing a frountend)
+- [ ] Web panel (WIP, relies on Api auth)
+- [ ] Sign-ups (working on Api auth)
 - [ ] Beautify code and convert all big functions and function groups to imports
    
   <br>
@@ -142,7 +143,7 @@
   
   ![image](https://user-images.githubusercontent.com/66269103/206880746-cf3916ec-788a-48d0-9bef-eba04a77b55f.png)
   
-## Auth (not yet done)
+## Api Auth (not yet done)
  
 
   <br>
