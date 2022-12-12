@@ -1,4 +1,7 @@
 # Reasonable Demands
+[![GitHub stars](https://img.shields.io/github/stars/cloudcant/ReasonableDemands.svg)](https://github.com/cloudcant/ReasonableDemand/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
+[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
 <table>
 <tr>
 <td>
