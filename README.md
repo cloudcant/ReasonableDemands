@@ -117,7 +117,8 @@
 <details>
 <summary>Web panel (wip)</summary>
 
-  ![Untitled](https://user-images.githubusercontent.com/66269103/206882877-f7054cdb-fd17-4ed4-842a-35654213b663.png)
+  ![Screenshot_2022-12-31_16-24-52](https://user-images.githubusercontent.com/66269103/210156688-1787a2ef-2f2d-4c86-b0b1-b31dc230d886.png)
+
 
   <br>
 </details>
