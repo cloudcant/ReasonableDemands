@@ -1,13 +1,42 @@
 # Reasonable Demands !! REBRANDING TO CANTEAN !!
-[![GitHub stars](https://img.shields.io/github/stars/cloudcant/ReasonableDemands.svg)](https://github.com/cloudcant/ReasonableDemand/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
-[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
+
 <table>
 <tr>
 <td>
-  
-![image](https://user-images.githubusercontent.com/66269103/205955718-849fdff5-5f0d-4a76-83bb-78c600fc5375.png)
-  
+
+```python
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                  ████                                                  
+                                  ██▓▓██                                                
+                                  ██▓▓▓▓██                                              
+                                  ██▒▒▓▓▒▒██                                            
+                                    ██▒▒▒▒▒▒██                                          
+                                      ██▒▒▒▒██    ██████████                            
+                                    ██████▒▒██  ██▒▒▒▒▒▒▒▒▒▒██                          
+                                ████░░░░░░██████▒▒▒▒▒▒▒▒████                            
+                              ██░░░░    ░░██████████████                                
+                            ██░░░░  ░░░░░░░░██░░██                                      
+                            ██░░  ░░░░░░░░░░░░░░░░██                                    
+                            ██░░  ░░░░░░░░░░░░░░░░██                                    
+                            ██░░░░░░░░░░░░░░░░░░░░██                                    
+                            ██░░░░░░░░░░░░░░░░░░░░██                                    
+                              ██░░░░░░░░░░░░░░░░██                                      
+                                ██░░░░░░░░░░░░██                                        
+                                  ████████████                                          
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+```
+ 
 <details>
 <summary>Click Here</summary>
 
