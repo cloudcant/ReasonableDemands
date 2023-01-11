@@ -1,4 +1,4 @@
-# Reasonable Demands !! REBRANDING TO CANTEAN !!
+CanteanCNC
 
 <table>
 <tr>
